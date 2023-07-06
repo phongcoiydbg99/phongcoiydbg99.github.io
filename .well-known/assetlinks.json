@@ -1,9 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.dinogo.android",
-    "sha256_cert_fingerprints":
-    ["45:07:38:EF:D4:2C:DD:CC:D0:F4:D7:E5:FF:E2:D9:C6:89:88:E6:35:1B:C8:75:8B:5D:A3:CD:1E:51:09:EB:AB"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.mytour.apps.android",
+      "sha256_cert_fingerprints": [
+        "85:1E:63:CA:70:88:0D:87:AB:3F:A1:15:79:1F:C2:30:D3:52:99:12:C4:35:45:27:AC:FA:B4:6B:26:BA:6C:FB"
+      ]
+    }
   }
-}]
+]
