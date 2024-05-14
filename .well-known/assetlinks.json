@@ -1,13 +1,11 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "vn.mytour.apps.android",
-      "sha256_cert_fingerprints": [
-        "85:1E:63:CA:70:88:0D:87:AB:3F:A1:15:79:1F:C2:30:D3:52:99:12:C4:35:45:27:AC:FA:B4:6B:26:BA:6C:FB"
-      ],
-      "exclude": ["https://vv.phongcoiydbg99.github.io/"]
-    }
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "vn.vntravel.buzz",
+    "sha256_cert_fingerprints":
+    ["16:78:E4:61:E0:DB:AF:13:5E:0D:CF:6E:EF:D7:24:B4:00:19:62:C5:51:54:3F:B9:5E:DD:DE:67:E6:51:C6:E5"]
   }
+}
 ]
