@@ -5,7 +5,8 @@
     "namespace": "android_app",
     "package_name": "vn.vntravel.buzz",
     "sha256_cert_fingerprints":
-    ["16:78:E4:61:E0:DB:AF:13:5E:0D:CF:6E:EF:D7:24:B4:00:19:62:C5:51:54:3F:B9:5E:DD:DE:67:E6:51:C6:E5"]
+    ["16:78:E4:61:E0:DB:AF:13:5E:0D:CF:6E:EF:D7:24:B4:00:19:62:C5:51:54:3F:B9:5E:DD:DE:67:E6:51:C6:E5", 
+      "59:BC:9D:20:9E:51:26:24:EF:0B:B0:CB:06:FA:C9:1A:2D:20:54:9B:36:7D:BB:24:A7:8D:76:DB:49:3E:5D:61"]
   }
 }
 ]
