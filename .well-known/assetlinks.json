@@ -1,16 +1,9 @@
-[
-  {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "vn.vntravel.wekafe",
-            "package_name": "vn.vntravel.buzz",
-            "paths": [
-                "*/blog/bai-viet/*"
-            ],
-            "sha256_cert_fingerprints": [
-                "86:8F:7F:6D:A1:CE:87:DC:36:63:51:1D:4A:1F:4E:4B:D0:74:4F:53:86:70:A4:1D:FB:0C:56:92:E2:DF:28:BE"            ]
-        }
-    }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "vn.vntravel.buzz",
+    "sha256_cert_fingerprints":
+    ["86:8F:7F:6D:A1:CE:87:DC:36:63:51:1D:4A:1F:4E:4B:D0:74:4F:53:86:70:A4:1D:FB:0C:56:92:E2:DF:28:BE"]
+  }
+}]
